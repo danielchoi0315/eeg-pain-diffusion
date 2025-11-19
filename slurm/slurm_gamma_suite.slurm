@@ -11,10 +11,9 @@
 module load python/3.10
 
 # Activate your venv (not conda)
-source /home/daniel.choi2/eegdiff/bin/activate
+source #
 
-cd /home/daniel.choi2/eeg_diffusion
-
+cd #
 python eval_ddpm_gamma_suite.py \
   --data_path preprocessed_eeg_minimal.npy \
   --meta_path preprocessed_eeg_metadata.npz \
