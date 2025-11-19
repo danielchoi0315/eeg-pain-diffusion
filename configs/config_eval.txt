@@ -1,0 +1,9 @@
+T200_lr2e-4_cos   /path/to/ckpts/T200_lr2e-4_cos.ckpt
+T200_lr1e-4_cos   /path/to/ckpts/T200_lr1e-4_cos.ckpt
+T400_lr2e-4_cos   /path/to/ckpts/T400_lr2e-4_cos.ckpt
+T400_lr1e-4_cos   /path/to/ckpts/T400_lr1e-4_cos.ckpt
+T200_lr3e-4_cos   /path/to/ckpts/T200_lr3e-4_cos.ckpt
+T400_lr3e-4_cos   /path/to/ckpts/T400_lr3e-4_cos.ckpt
+T200_lr2e-4_lin   /path/to/ckpts/T200_lr2e-4_lin.ckpt
+T400_lr2e-4_lin   /path/to/ckpts/T400_lr2e-4_lin.ckpt
+

@@ -1,0 +1,8 @@
+T200_lr2e-4_cos  synth/T200_lr2e-4_cos.npy
+T200_lr1e-4_cos  synth/T200_lr1e-4_cos.npy
+T400_lr2e-4_cos  synth/T400_lr2e-4_cos.npy
+T400_lr1e-4_cos  synth/T400_lr1e-4_cos.npy
+T200_lr3e-4_cos  synth/T200_lr3e-4_cos.npy
+T400_lr3e-4_cos  synth/T400_lr3e-4_cos.npy
+T200_lr2e-4_lin  synth/T200_lr2e-4_lin.npy
+T400_lr2e-4_lin  synth/T400_lr2e-4_lin.npy

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# SLURM / logs
+logs/
+*.out
+*.err
+
+# Data & heavy artifacts (generated, not source)
+results/
+raw_data/
+*.npz
+*.npy
+*.pt
+*.ckpt
+
+# Editor / OS noise
+.DS_Store
+.vscode/
+.idea/
