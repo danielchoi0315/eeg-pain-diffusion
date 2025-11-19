@@ -8,10 +8,10 @@
 #SBATCH --mem=16G
 #SBATCH --time=12:00:00
 
-cd /home/daniel.choi2/eeg_diffusion
+cd #file
 
 # Activate your env (adjust if needed)
-source /home/daniel.choi2/eegdiff/bin/activate
+source #env
 
 python eval_ddpm_downstream_pain_classifier_subjectwise_v2.py \
   --data_path preprocessed_eeg_minimal.npy \
